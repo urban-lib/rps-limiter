@@ -1,4 +1,4 @@
-module rps-limiter
+module github.com/urban-lib/rps-limiter
 
 go 1.18
 
