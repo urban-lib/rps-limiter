@@ -1,5 +1,5 @@
 ```bash
-go get github.com/urban-lib/rps-limiter
+go get github.com/urban-lib/rps-limiter@v1
 ```
 
 ```go
