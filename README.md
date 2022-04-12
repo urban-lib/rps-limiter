@@ -1,3 +1,7 @@
+```bash
+go get github.com/urban-lib/rps-limiter
+```
+
 ```go
 
 func MaxAllowedMiddleware(cfg *limiter.Config) gin.HandlerFunc {
